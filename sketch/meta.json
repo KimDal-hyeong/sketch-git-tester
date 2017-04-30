@@ -1,0 +1,33 @@
+{
+  "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129",
+  "appVersion": "43.2",
+  "build": 39069,
+  "app": "com.bohemiancoding.sketch3",
+  "pagesAndArtboards": {
+    "45EE1827-AF05-4E1B-BD87-10CF45810905": {
+      "name": "Page 1",
+      "artboards": {
+        "38A7D1C8-1307-4BD6-B597-D97DEC7BC4E0": {
+          "name": "Artboard"
+        }
+      }
+    }
+  },
+  "fonts": [
+    "AppleSDGothicNeo-Regular"
+  ],
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129",
+    "build": 39069,
+    "appVersion": "43.2",
+    "variant": "NONAPPSTORE",
+    "version": 88
+  },
+  "version": 88,
+  "saveHistory": [
+    "NONAPPSTORE.39069"
+  ],
+  "autosaved": 0,
+  "variant": "NONAPPSTORE"
+}
